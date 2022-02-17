@@ -1,6 +1,6 @@
 ### Olá 👋
-- 🧐 Buscando oportunidade como Dev. Jr front-end
-- 🌱 Estudando JavaScript
+- 🧐 Trainee de Sistemas | Indra
+- 🌱 Estudando Java
 - 📫 Contate-me no email: luanlucas.r10@hotmail.com
 <div align="center">
   <a href="https://github.com/LuanBarb0sa">
